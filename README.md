@@ -1,2 +1,9 @@
 # Bruno-Moreno.github.io
-Pagina web en construcción de Nelson Moreno Cabañas
+**¿Qué es?** 
+
+Pagina web en construcción.
+
+**¿Qué falta?**
+
+Curriculum Vitae en Inglés, arreglar el formulario de contacto y añadir proyectos en los que estoy trabajando. 
+
